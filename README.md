@@ -1,2 +1,3 @@
-# Student-Record-Management-Systgem
-A smart attendance system that uses face recognition to automatically mark attendance. It captures faces through a webcam, trains a recognition model, and records attendance in CSV files — all through an elegant Tkinter GUI.
+The Student Record Management System (SRMS) is a software application designed to efficiently store, manage, and retrieve student information in an educational institution. It simplifies the manual process of maintaining student records by providing a digital solution that ensures accuracy, security, and easy access to data.
+
+This system allows users (such as administrators, teachers, or staff) to add, update, delete, and view student details such as name, roll number, department, contact information, marks, and other relevant data. It helps institutions handle large volumes of records systematically and reduces paperwork and human errors.
